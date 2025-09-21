@@ -1,16 +1,14 @@
-## Hi there 👋
+# 📂 My Projects
 
-<!--
-**DoMinhCat/DoMinhCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Self-learning
+- [Node.js CRUD API with Express and MongoDB](https://github.com/DoMinhCat/Node-Express-MongoDB)
+- [Technical case-study FastAPI](https://github.com/DoMinhCat/Etude-de-cas-FastAPI)
 
-Here are some ideas to get you started:
+## 🎓 School Projects
+### Year 1
+- [Annual Project at ESGI - Gaming Sphere](https://github.com/DoMinhCat/Project_GamingSphere.git)
+- [Quiz PHP](https://github.com/DoMinhCat/Projet_QuizPHP)
+- [Pokedex](https://github.com/DoMinhCat/Project_Pokedex)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Year 2
+- Coming soon
