@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Driven by curiosity and thirst for knowledge, I am learning the basics of Cloud, DevOps, Node?js, Express and MongoDB by myself.</p>
+<p align="left">Driven by curiosity and thirst for knowledge, I am learning the basics of Cloud, DevOps, Node.js, Express and MongoDB all by myself with online resources.</p>
 
 ###
 
@@ -78,4 +78,5 @@
 - [Pokedex](https://github.com/DoMinhCat/Project_Pokedex)
 
 #### Year 2
-- Work in progress 🔥
+- [Console Library - An introduction to Golang](https://github.com/DoMinhCat/Console-Library.git)
+- More work in progress 🔥
