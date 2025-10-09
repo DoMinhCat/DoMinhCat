@@ -69,14 +69,15 @@
 
 ### 🚀 Self-learning
 - [Node.js CRUD API with Express and MongoDB](https://github.com/DoMinhCat/Node-Express-MongoDB)
-- [Technical case-study FastAPI](https://github.com/DoMinhCat/Etude-de-cas-FastAPI)
+- [Technical case-study FastAPI](https://github.com/DoMinhCat/CaseStudy-FastAPI.git)
 
 ### 🎓 School Projects
 #### Year 1
 - [Annual Project at ESGI - Gaming Sphere](https://github.com/DoMinhCat/Project_GamingSphere.git)
-- [Quiz PHP](https://github.com/DoMinhCat/Projet_QuizPHP)
+- [Quiz PHP](https://github.com/DoMinhCat/Project_QuizPHP.git)
 - [Pokedex](https://github.com/DoMinhCat/Project_Pokedex)
 
 #### Year 2
 - [Console Library - An introduction to Golang](https://github.com/DoMinhCat/Console-Library.git)
+- [C language Final Project](https://github.com/DoMinhCat/C_Final.git)
 - More work in progress 🔥
