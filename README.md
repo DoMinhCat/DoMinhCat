@@ -78,6 +78,5 @@
 - [Pokedex](https://github.com/DoMinhCat/Project_Pokedex)
 
 #### Year 2
-- [Console Library - An introduction to Golang](https://github.com/DoMinhCat/Console-Library.git)
 - [C language Final Project](https://github.com/DoMinhCat/C_Final.git)
 - More work in progress 🔥
