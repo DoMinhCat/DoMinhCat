@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">2nd year CS student at ESGI Paris</p>
+<p align="left">Junior Observability Internship at Publisis Re:sources | Sudent at ESGI Paris</p>
 
 ###
 
