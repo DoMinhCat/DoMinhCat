@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Junior Observability Internship at Publisis Re:sources | Sudent at ESGI Paris</p>
+<p align="left">Junior Observability at Publisis Re:sources | Student at ESGI Paris</p>
 
 ###
 
@@ -72,11 +72,11 @@
 - [Technical case-study FastAPI](https://github.com/DoMinhCat/CaseStudy-FastAPI.git)
 
 ### 🎓 School Projects
-#### Year 1
-- [Annual Project at ESGI - Gaming Sphere](https://github.com/DoMinhCat/Project_GamingSphere.git)
+#### Year 1 ESGI
+- [Annual Project - Gaming Sphere](https://github.com/DoMinhCat/Project_GamingSphere.git)
 - [Quiz PHP](https://github.com/DoMinhCat/Project_QuizPHP.git)
 - [Pokedex](https://github.com/DoMinhCat/Project_Pokedex)
 
-#### Year 2
-- [C language Final Project](https://github.com/DoMinhCat/C_Final.git)
+#### Year 2 ESGI
+- [C language Final Project - MiniDB](https://github.com/DoMinhCat/C_Final.git)
 - More work in progress 🔥
